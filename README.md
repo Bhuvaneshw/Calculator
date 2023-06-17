@@ -3,6 +3,4 @@ My First JetPackCompose Project
 
 ## Screenshot
 
-![Screenshot](./screenshots/img.png)
-![Screenshot](./screenshots/img_1.png)
-![Screenshot](./screenshots/img_2.png)
+  <img src="screenshots/img.png" width="205"/>  <img src="screenshots/img_1.png" width="202"/>  <img src="screenshots/img_2.png" width="200"/>
